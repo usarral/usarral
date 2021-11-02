@@ -15,4 +15,6 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TITLE: true
+          COMMIT_MESSAGE: "Updated the Wakatime Graph with new Metrics"
+          BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
 
