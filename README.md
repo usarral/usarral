@@ -1,73 +1,57 @@
 
-# Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<div align="center">
+<img width="" height = "" src="" alt="cover" />
+</div>
 
-My name is Carlos Sesma and I'm a student of web application development. I'm from Spain, living in Zaragoza. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+<p align='center'>
 
-## &#x270d; Writing
+![visitors](https://visitor-badge.glitch.me/badge?page_id=usarral.usarral)
 
-Apart from coding, I also want to start to write articles on [Medium](https://usarral.medium.com) and [DEV.to](https://dev.to/usarral).
+</p>
+<div size='20px'> Hi! My name is Carlos Sesma. Thank You for taking the time to view my GitHub Profile :smile: 
+</div>
 
-## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://flat.badgen.net/badge/icon/Zsh?icon=terminal&label=Shell&color=2bbc8a)
-![](https://flat.badgen.net/badge/icon/Visual%20Studio%20Code?icon=visualstudio&label=IDE&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Mongodb-2bbc8a?logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPHN2ZyB2aWV3Qm94PSIwIDAgMzIgMzIiIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICA8cGF0aCBmaWxsPSIjRkZGIiBkPSJNMjIuNzk3IDE0LjU2MmExMy42NjMgMTMuNjYzIDAgMCAwLS40MDctMi4yOTdjLS42MjUtMi4zNjktMS42NjYtNC42MzctMy4xMzQtNi42MDNhMTYuNTggMTYuNTggMCAwIDAtMS4yOTQtMS41MzJjLS40NzYtLjQ5OS0xLjAwNC0uOTU3LTEuMzM2LTEuNTc4LS4yMS0uMzkzLS40MS0uNzkxLS42MTQtMS4xODctLjAwMy4xMjQtLjAxMS4yNDgtLjAxMS4zNzEgMC0uMTI0LjAwOS0uMjQ4LjAxMS0uMzcybC0uMTMtLjMyN2MtLjAyMi4wNzUtLjAzNi4xMDEtLjAzNi4xMjktLjAxNy42NDUtLjM4MyAxLjA4My0uODM4IDEuNDkyLS41MTIuNDYtLjk4OS45NTktMS40ODEgMS40NDEuMDE3LjAyMi4wMzYuMDQ0LjA1NS4wNjYtLjAxOS0uMDIyLS4wMzgtLjA0My0uMDU1LS4wNjYtMS40NjMgMS45MjQtMi43NTIgMy45ODEtMy41MTEgNi4yOWExNC42OTEgMTQuNjkxIDAgMCAwLS41MTcgMi4wNTZjLS4yNTkgMS40ODEtLjM3OSAyLjkyLS4yOTYgNC40Mi4wNDYuODI5LjE5MSAxLjY0NS40MDcgMi40NDguNzg1IDIuOTE3IDIuMzc5IDUuMzM2IDQuNTU4IDcuMzkyLjQwNS4zODIuODQyLjcyOSAxLjI2NSAxLjA5M2wuMDAzLS4wMTEtLjAwMy4wMTEuMTg3LjY0Mi4xNzQuOTk2LjA4MyAxLjAzOWMtLjAwMS4yMTEtLjAxLjQyMy4wMDMuNjMzLjAwMy4wNTQuMDc0LjEwNC4xMTMuMTU2bC4wMDQtLjAwNi0uMDA0LjAwNi4zNTMuMTI0LjM2Ny4xNDNhMzIyLjYzIDMyMi42MyAwIDAgMC0uMDYzLS45MjRsLS4wMDMtLjkxLS4wMjEuMDIxLjAyMS0uMDIxLjEyNy0xLjM4Ni4wOTItLjMwMi4yNjMtLjQ2N2MuMzI1LS4yNjIuNjc0LS40OTkuOTcxLS43OS41MzYtLjUyNyAxLjA3MS0xLjA2IDEuNTUtMS42MzdhMTIuMjk0IDEyLjI5NCAwIDAgMCAxLjU4OC0yLjQ0MWMxLjIyMy0yLjQ5MSAxLjc4OS01LjI2OSAxLjU2NC04LjAzOWwtLjAwNi0uMDc0eiIvPgo8L3N2Zz4=)
-![](https://flat.badgen.net/badge/icon/Github?icon=github&label=Cloud&color=2bbc8a)
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/usarral/usarral">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=usarral&hide=c%2B%2B,papyrus&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5" />
+- 🔭 I’m currently working on 
+
+- 🌱 I’m currently learning Java,Android 
+
+- 👯 I’m looking to collaborate on Projects,Tech Articles 
+
+- 💬 Talk to me about Python, JavaScript, Freelancing Opportunites, Open Source 
+
+<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<a href= https://github.com/usarral?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
+<a href= https://github.com/usarral?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
+<a href= https://github.com/usarral?tab=repositories&q=&type=&language=bash&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bash.svg'> </a>
+<a href= https://github.com/usarral?tab=repositories&q=&type=&language=blender&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/blender.svg'> </a>
+<a href= https://github.com/usarral?tab=repositories&q=&type=&language=github&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg'> </a>
+
+
+<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+<a href = 'https://www.linkedin.com/in/usarral'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
+<a href = 'https://www.twitter.com/usarral_'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
+<a href = 'usarral'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/></a> 
+<a href = 'usarral.me'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
+<a href = 'https://www.github.com/usarral'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
+
+
+<h2> Stuff I worked on last week  <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 70px> </h2>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <!--START_SECTION:waka-->
+  <!--END_SECTION:waka-->
+
+
 </a>
-<a href="https://github.com/usarral/usarral">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=usarral&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Usarral's GitHub Stats" />
-</a>
-<!--<a href="github.com/usarral"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=usarral" alt="Carlos's time programmed in each language"></a>-->
-
-<!--START_SECTION:waka-->
-```text
-Java         2 hrs 45 mins   ████████████░░░░░░░░░░░░░   47.83 % 
-HTML         2 hrs 20 mins   ██████████░░░░░░░░░░░░░░░   40.55 % 
-JSON         16 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
-CSS          13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
-JavaScript   7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
-```
-<!--END_SECTION:waka-->
+<br>
 
 
+<h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
 
+![Metrics](https://metrics.lecoq.io/usarral?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FToronto)
 
-<!-- links to social media icons -->
-
-<!-- icons with padding -->
-
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
-
-<!-- icons without padding -->
-
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-
-
-<!-- links to your social media accounts -->
-
-[1]: https://twitter.com/usarral_
-[2]: https://github.com/usarral
-[3]: https://www.linkedin.com/in/usarral/
-
-
-<!-- Resources -->
-<!-- Icons: https://simpleicons.org/ -->
-<!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
-<!-- Emojis: https://emojipedia.org/emoji/ -->
-<!-- HTML Emojis: https://www.fileformat.info/index.htm -->
-<!-- Shields: https://shields.io/ -->
-<!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
-
-              
 
 
