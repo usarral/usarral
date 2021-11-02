@@ -26,6 +26,13 @@ Apart from coding, I also want to start to write articles on [Medium](https://us
 </a>
 <!--<a href="github.com/usarral"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=usarral" alt="Carlos's time programmed in each language"></a>-->
 <!--START_SECTION:waka-->
+```text
+Java         2 hrs 45 mins   ████████████░░░░░░░░░░░░░   47.83 % 
+HTML         2 hrs 20 mins   ██████████░░░░░░░░░░░░░░░   40.55 % 
+JSON         16 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
+CSS          13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
+JavaScript   7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
+```
 <!--END_SECTION:waka-->
 
 
