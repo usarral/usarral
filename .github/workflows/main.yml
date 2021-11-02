@@ -18,6 +18,9 @@ jobs:
           # Options
           user: usarral
           template: markdown
+          filename: README.md         # Output file
+          markdown: TEMPLATE.md       # Template file
+          markdown_cache: .cache      # Cache folder
           base: header, activity, community, repositories
           config_timezone: Europe/Madrid
           plugin_isocalendar: yes
