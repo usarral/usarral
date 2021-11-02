@@ -13,28 +13,26 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           # Your GitHub token
-          token: ${{ SECRETS.METRICS_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
           user: usarral
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/Madrid
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
           plugin_lines: yes
           plugin_people: yes
           plugin_people_limit: 24
           plugin_people_shuffle: yes
           plugin_people_size: 28
           plugin_people_types: followers, following
-          plugin_posts: yes
-          plugin_posts_covers: yes
-          plugin_posts_limit: 4
-          plugin_posts_source: dev.to
-          plugin_posts_user: .user.login
-          plugin_skyline: yes
-          plugin_skyline_frames: 60
-          plugin_skyline_quality: 0.5
-          plugin_skyline_year: 2021
+          plugin_repositories: 100
+          plugin_repositories: yes
+          plugin_repositories_affiliations: owner
+          plugin_repositories_batch: 100
+          plugin_repositories_featured: LyricalString/Node-Discord-Bot
           plugin_wakatime: yes
           plugin_wakatime_days: 7
           plugin_wakatime_limit: 5
