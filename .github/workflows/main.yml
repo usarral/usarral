@@ -18,23 +18,29 @@ jobs:
           # Options
           user: usarral
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: header, activity, community, repositories
           config_timezone: Europe/Madrid
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
+          plugin_languages: yes
+          plugin_languages_analysis_timeout: 15
+          plugin_languages_categories: markup, programming
+          plugin_languages_colors: github
+          plugin_languages_limit: 8
+          plugin_languages_recent_categories: markup, programming
+          plugin_languages_recent_days: 14
+          plugin_languages_recent_load: 300
+          plugin_languages_sections: most-used
+          plugin_languages_threshold: 0%
           plugin_lines: yes
           plugin_people: yes
           plugin_people_limit: 24
           plugin_people_shuffle: yes
           plugin_people_size: 28
           plugin_people_types: followers, following
-          plugin_repositories: 100
-          plugin_repositories_affiliations: owner
-          plugin_repositories_batch: 100
-          plugin_repositories_featured: LyricalString/Node-Discord-Bot
           plugin_wakatime: yes
           plugin_wakatime_days: 7
           plugin_wakatime_limit: 5
           plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
-          plugin_wakatime_url: https://usarral.me
+          plugin_wakatime_url: https://wakatime.com/@usarral
           plugin_wakatime_user: usarral
