@@ -17,12 +17,7 @@ jobs:
 
           # Options
           user: usarral
-          template: markdown
-          filename: metrics.markdown.md
-          markdown: metrics.markdown.template.md
-          config_output: markdown
-          output_action: pull-request
-          delay: 120
+          template: classic
           base: header, activity, community, repositories
           config_timezone: Europe/Madrid
           plugin_isocalendar: yes
@@ -44,7 +39,6 @@ jobs:
           plugin_people_size: 28
           plugin_people_types: followers, following
           plugin_wakatime: yes
-          plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
           plugin_wakatime_days: 7
           plugin_wakatime_limit: 5
           plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
