@@ -1,20 +1,43 @@
-name: Waka Readme
-
+# Visit https://github.com/lowlighter/metrics/blob/master/action.yml for full reference
+name: Metrics
 on:
+  # Schedule updates (each hour)
+  schedule: [{cron: "0 * * * *"}]
+  # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
-  schedule:
-    # Runs at 12am UTC
-    - cron: "0 0 * * *"
-
+  push: {branches: ["master", "main"]}
 jobs:
-  update-readme:
-    name: Update this repo's README
+  github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master
+      - uses: lowlighter/metrics@latest
         with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          SHOW_TITLE: true
-          COMMIT_MESSAGE: "Updated the Wakatime Graph with new Metrics"
-          BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
+          # Your GitHub token
+          token: ${{ secrets.METRICS_TOKEN }}
 
+          # Options
+          user: usarral
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Europe/Madrid
+          plugin_lines: yes
+          plugin_people: yes
+          plugin_people_limit: 24
+          plugin_people_shuffle: yes
+          plugin_people_size: 28
+          plugin_people_types: followers, following
+          plugin_posts: yes
+          plugin_posts_covers: yes
+          plugin_posts_limit: 4
+          plugin_posts_source: dev.to
+          plugin_posts_user: .user.login
+          plugin_skyline: yes
+          plugin_skyline_frames: 60
+          plugin_skyline_quality: 0.5
+          plugin_skyline_year: 2021
+          plugin_wakatime: yes
+          plugin_wakatime_days: 7
+          plugin_wakatime_limit: 5
+          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
+          plugin_wakatime_url: https://usarral.me
+          plugin_wakatime_user: usarral
