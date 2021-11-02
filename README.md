@@ -25,6 +25,7 @@ Apart from coding, I also want to start to write articles on [Medium](https://us
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=usarral&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Usarral's GitHub Stats" />
 </a>
 <!--<a href="github.com/usarral"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=usarral" alt="Carlos's time programmed in each language"></a>-->
+
 <!--START_SECTION:waka-->
 ```text
 Java         2 hrs 45 mins   ████████████░░░░░░░░░░░░░   47.83 % 
