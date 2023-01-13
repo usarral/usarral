@@ -49,5 +49,5 @@ jobs:
           plugin_introduction_title: yes
           plugin_rss: yes
           plugin_rss_limit: 4
-          plugin_rss_source: https://blog.usarr.tech/index.xml
+          plugin_rss_source: https://blog.usarral.com/index.xml
           repositories_forks: yes
