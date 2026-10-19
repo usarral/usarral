@@ -13,7 +13,7 @@
 
 - **e-RVC** (2024 to today): 22 microservices for the public vineyard registry of Catalonia, in Java, Spring Boot and Angular, delivered with Jenkins on OpenShift.
 - **[usarral.com](https://usarral.com)**: this site and blog, built with Astro and Tailwind in English and Spanish, with search and structured data, deployed on Vercel.
-- **ai-queue**: a task queue for a home AI server, with FastAPI, Redis Streams and Wake-on-LAN.
+- **clef-triage**: triages unread email with Clef-flash, Cloudflare's decision model, running locally on a 12 GB GPU. [Written up on the blog](https://usarral.com/en/posts/clef-flash-email-triage/).
 - **Developer tooling**: CLIs, DDD backend templates and http-studio, an HTTP client in Rust whose engine is separate from its interface.
 - **Pequeñas Raíces Libres**: website and editing panel for a non-profit from Huesca that supports children in Guaricano, Dominican Republic.
 
@@ -48,6 +48,6 @@ Client work, side projects and experiments, with the stack of each, at **[usarra
 
 **Desarrollador de software en España.** Diseño y construyo backends y microservicios, herramientas de línea de comandos y la infraestructura cloud que las rodea, y escribo sobre lo que aprendo.
 
-Ahora trabajo en el registro vitivinícola de Cataluña (e-RVC), en mi web y blog (usarral.com), en una cola de tareas para un servidor de IA doméstico, en herramientas para desarrolladores y en la web de la asociación Pequeñas Raíces Libres. Artículos en [usarral.com/es/posts](https://usarral.com/es/posts/) y proyectos en [usarral.com/es/projects](https://usarral.com/es/projects/).
+Ahora trabajo en el registro vitivinícola de Cataluña (e-RVC), en mi web y blog (usarral.com), en un clasificador de correo con un modelo de IA local (clef-triage), en herramientas para desarrolladores y en la web de la asociación Pequeñas Raíces Libres. Artículos en [usarral.com/es/posts](https://usarral.com/es/posts/) y proyectos en [usarral.com/es/projects](https://usarral.com/es/projects/).
 
 </details>
