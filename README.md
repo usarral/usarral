@@ -1,34 +1,52 @@
-<h1 align="center">Hi 👋, I'm Carlos</h1>
-<h3 align="center">Backend Developer</h3>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://usarral.com/wordmark-dark.svg">
+    <img alt="usarral" src="https://usarral.com/wordmark.svg" width="260">
+  </picture>
+</div>
 
+**Software developer based in Spain.** I design and build backends and microservices, command-line tools and the cloud infrastructure around them, and I write about what I learn.
 
-- 🔭 I’m currently working on [usarral.com](https://usarral.com)
+[usarral.com](https://usarral.com) · [LinkedIn](https://linkedin.com/in/usarral) · contacto@usarral.com
 
-- 🌱 I’m currently learning **DDD, SOLID, Clear Architecture, Symfony**
+## Now
 
-- 👨‍💻 All of my projects are available at [usarral.com](usarral.com)
+- **e-RVC** (2024 to today): 22 microservices for the public vineyard registry of Catalonia, in Java, Spring Boot and Angular, delivered with Jenkins on OpenShift.
+- **ai-queue**: a task queue for a home AI server that can be switched off, with FastAPI, Redis Streams, PostgreSQL and Wake-on-LAN.
+- **Developer tooling**: CLIs, DDD backend templates and http-studio, an HTTP client in Rust whose engine is separate from its interface.
+- **Pequeñas Raíces Libres**: website and editing panel for a non-profit from Huesca that supports children in Guaricano, Dominican Republic.
 
-- 📝 I regularly write articles on [usarral.com/posts](usarral.com/posts)
+## Latest writing
 
-- 💬 Ask me about **Typescript, Astro, Python, PHP, Java**
+<!-- posts:start -->
+- [Clef-flash: a model that decides, not writes](https://usarral.com/en/posts/clef-flash-email-triage/) · Oct 2026
+- [GitHub Copilot's Free Ride Is Over](https://usarral.com/en/posts/github-copilot-pricing-tokens/) · Jun 2026
+- [HomeLab SSL with Traefik v3 and Local CA](https://usarral.com/en/posts/traefik-local-ssl-ca-homelab/) · Feb 2026
+- [🛠️ Securize and Deploy your VPS using Docker](https://usarral.com/en/posts/vps-config-deploy/) · Jan 2025
+- [Monitor Your Websites for Free with Upptime](https://usarral.com/en/posts/monitor-websites-upptime/) · Dec 2024
+<!-- posts:end -->
 
-- 📫 How to reach me **carlos@usarral.com**
+More at [usarral.com/en/posts](https://usarral.com/en/posts/), also in [Spanish](https://usarral.com/es/posts/).
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/usarral" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="usarral" height="30" width="40" /></a>
-<a href="https://twitter.com/usarral_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="usarral_dev" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/usarral" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="usarral" height="30" width="40" /></a>
-<a href="https://medium.com/@usarral" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@usarral" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@usarral" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="usarral" height="30" width="40" /></a>
-<a href="https://discord.com/channels/@me/usarral" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="usarral" height="30" width="40" /></a>
-</p>
+## Stack
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"><a href="https://astro.build/" target="_blank" rel="noreferrer"><img src="https://astro.build/assets/press/astro-icon-light-gradient.svg" alt="astro" width="40" height="40"/></a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://old.usarral.com/images/tags/terminal.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://gohugo.io/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/> </a> <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nativescript.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/nativescript.svg" alt="nativescript" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://lucene.apache.org/solr/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_solr/apache_solr-icon.svg" alt="solr" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+**Languages** Java · TypeScript · Python · Rust · PHP  
+**Backend** Spring Boot · NestJS · Node.js · FastAPI  
+**Architecture** Microservices · Domain-Driven Design · Hexagonal architecture · WebSockets  
+**Cloud and delivery** OpenShift · Docker · Jenkins · CI/CD · GitHub Actions · Traefik · Cloudflare · Vercel · Linux  
+**Frontend** Angular · React · Astro · Svelte · Tailwind CSS  
+**Data** PostgreSQL · Redis · MongoDB · MySQL  
+**Also** SAP ABAP and UI5 · IoT with Arduino · Machine learning with PyTorch
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=usarral&show_icons=true&theme=dark&locale=en&layout=compact" alt="usarral" /></p>
+## Projects
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=usarral&show_icons=true&theme=dark&locale=en" alt="usarral" /></p>
+Client work, side projects and experiments, with the stack of each, at **[usarral.com/en/projects](https://usarral.com/en/projects/)**.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=usarral&theme=dark" alt="usarral" /></p>
+<details>
+<summary>En español</summary>
+
+**Desarrollador de software en España.** Diseño y construyo backends y microservicios, herramientas de línea de comandos y la infraestructura cloud que las rodea, y escribo sobre lo que aprendo.
+
+Ahora trabajo en el registro vitivinícola de Cataluña (e-RVC), en una cola de tareas para un servidor de IA doméstico, en herramientas para desarrolladores y en la web de la asociación Pequeñas Raíces Libres. Artículos en [usarral.com/es/posts](https://usarral.com/es/posts/) y proyectos en [usarral.com/es/projects](https://usarral.com/es/projects/).
+
+</details>

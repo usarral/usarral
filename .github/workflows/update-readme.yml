@@ -1,0 +1,42 @@
+name: Update README
+
+# Keeps the "Latest writing" list in sync with usarral.com.
+# - daily, as a safety net
+# - on demand
+# - when usarral.com finishes a production deploy (it sends a "site-deployed" event)
+on:
+  schedule:
+    - cron: "17 6 * * *"
+  workflow_dispatch:
+  repository_dispatch:
+    types: [site-deployed]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-readme
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+
+      - uses: actions/setup-node@v7
+        with:
+          node-version: 24
+
+      - name: Rewrite the posts block from the RSS feed
+        run: node scripts/update-readme.mjs
+
+      - name: Commit if something changed
+        run: |
+          if [ -n "$(git status --porcelain README.md)" ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add README.md
+            git commit -m "docs(readme): update latest posts"
+            git push
+          fi
