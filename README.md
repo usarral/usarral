@@ -5,7 +5,7 @@
   </picture>
 </div>
 
-**Software developer focused on solution architecture and microservices design.** I like designing the system more than typing it, and I still build what I design: backends in NestJS and Java, command-line tools and the cloud infrastructure around them. Three years in production, plus freelance projects before that. Based in Spain, open to remote roles.
+**Software developer focused on solution architecture and microservices design.** I'm at my best turning a fuzzy problem into a clear system: the boundaries, the trade-offs and the decisions, written down. And I stay close to the code, building and shipping what I design, mainly in NestJS, TypeScript and Java. Three years in production, plus freelance projects before that. Based in Spain, open to remote architecture roles and to hands-on engineering roles with a design focus.
 
 [usarral.com](https://usarral.com) · [LinkedIn](https://linkedin.com/in/usarral) · contacto@usarral.com
 
@@ -46,7 +46,7 @@ Client work, side projects and experiments, with the stack of each, at **[usarra
 <details>
 <summary>En español</summary>
 
-**Desarrollador de software especializado en arquitectura de soluciones y diseño de microservicios.** Me gusta diseñar el sistema más que teclearlo, y sigo construyendo lo que diseño: backends en NestJS y Java, herramientas de línea de comandos y la infraestructura cloud. Tres años en producción y proyectos freelance antes. En España, abierto a puestos remotos.
+**Desarrollador de software especializado en arquitectura de soluciones y diseño de microservicios.** Donde más aporto es convirtiendo un problema difuso en un sistema claro: los límites, los trade-offs y las decisiones, por escrito. Y sigo cerca del código: construyo y entrego lo que diseño, sobre todo en NestJS, TypeScript y Java. Tres años en producción, más proyectos freelance antes. En España, abierto a puestos remotos de arquitectura y a puestos de desarrollo con foco en diseño.
 
 Ahora trabajo en el registro vitivinícola de Cataluña (e-RVC), en mi web y blog (usarral.com), en un clasificador de correo con un modelo de IA local (clef-triage), en herramientas para desarrolladores y en la web de la asociación Pequeñas Raíces Libres. Artículos en [usarral.com/es/posts](https://usarral.com/es/posts/) y proyectos en [usarral.com/es/projects](https://usarral.com/es/projects/).
 
