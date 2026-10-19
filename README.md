@@ -31,8 +31,8 @@ More at [usarral.com/en/posts](https://usarral.com/en/posts/), also in [Spanish]
 
 ## Stack
 
-**Languages** Java · TypeScript · Python · Rust · PHP  
-**Backend** Spring Boot · NestJS · Node.js · FastAPI  
+**Languages** TypeScript · Java · Python · Rust · PHP  
+**Backend** NestJS · Node.js · Spring Boot · FastAPI  
 **Architecture** Microservices · Domain-Driven Design · Hexagonal architecture · WebSockets  
 **Cloud and delivery** OpenShift · Docker · Jenkins · CI/CD · GitHub Actions · Traefik · Cloudflare · Vercel · Linux  
 **Frontend** Angular · React · Astro · Svelte · Tailwind CSS  
