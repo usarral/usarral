@@ -13,7 +13,7 @@
 
 - **e-RVC** (2024 to today): 22 microservices for the public vineyard registry of Catalonia, in Java, Spring Boot and Angular, delivered with Jenkins on OpenShift.
 - **[usarral.com](https://usarral.com)**: this site and blog, built with Astro and Tailwind in English and Spanish, with search and structured data, deployed on Vercel.
-- **ai-queue**: a task queue for a home AI server that can be switched off, with FastAPI, Redis Streams, PostgreSQL and Wake-on-LAN.
+- **ai-queue**: a task queue for a home AI server, with FastAPI, Redis Streams and Wake-on-LAN.
 - **Developer tooling**: CLIs, DDD backend templates and http-studio, an HTTP client in Rust whose engine is separate from its interface.
 - **Pequeñas Raíces Libres**: website and editing panel for a non-profit from Huesca that supports children in Guaricano, Dominican Republic.
 
