@@ -20,11 +20,11 @@
 ## Latest writing
 
 <!-- posts:start -->
+- [Sunday Box: from dead box to photo frame](https://usarral.com/en/posts/sunday-box-armbian/) · Nov 2026
 - [Clef-flash: a model that decides, not writes](https://usarral.com/en/posts/clef-flash-email-triage/) · Oct 2026
 - [GitHub Copilot's Free Ride Is Over](https://usarral.com/en/posts/github-copilot-pricing-tokens/) · Jun 2026
 - [HomeLab SSL with Traefik v3 and Local CA](https://usarral.com/en/posts/traefik-local-ssl-ca-homelab/) · Feb 2026
 - [🛠️ Securize and Deploy your VPS using Docker](https://usarral.com/en/posts/vps-config-deploy/) · Jan 2025
-- [Monitor Your Websites for Free with Upptime](https://usarral.com/en/posts/monitor-websites-upptime/) · Dec 2024
 <!-- posts:end -->
 
 More at [usarral.com/en/posts](https://usarral.com/en/posts/), also in [Spanish](https://usarral.com/es/posts/).
